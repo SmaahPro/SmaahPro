@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7d080a3a-7589-4ddb-8a90-a3ec2bb609b8" width="100%" alt="Profile Banner" />
+  <img src="[https://github.com/user-attachments/assets/7d080a3a-7589-4ddb-8a90-a3ec2bb609b8](https://github.com/user-attachments/assets/a37c1a2d-2d8e-4353-bcc5-d8db5bf52d92)" width="100%" alt="Profile Banner" />
 </p>
 
 <p align="center">
@@ -32,7 +32,9 @@ I love turning complex designs into functional, high-performance code.
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
+  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
+</p>![me](https://github.com/user-attachments/assets/51fd46e5-fb95-4e4c-aa67-47693f55a947)
+
 
 <br />
 <br />
@@ -46,22 +48,22 @@ I love turning complex designs into functional, high-performance code.
 
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/your-username" target="_blank">
+  <a href="https://linkedin.com/in/SmaahPro" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://facebook.com/your-username" target="_blank">
+  <a href="https://facebook.com/SmaahPro" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://x.com/your-username" target="_blank">
+  <a href="https://x.com/SmaahPro" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/your-username" target="_blank">
+  <a href="https://www.hackerrank.com/profile/SmaahPro" target="_blank">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
-  <a href="https://codeforces.com/profile/your-username" target="_blank">
+  <a href="https://codeforces.com/profile/SmaahPro" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
   </a>
-  <a href="https://www.codechef.com/users/your-username" target="_blank">
+  <a href="https://www.codechef.com/users/smaahpro" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
   </a>
 </p>
