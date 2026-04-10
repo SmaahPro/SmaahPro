@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/user-attachments/assets/7d080a3a-7589-4ddb-8a90-a3ec2bb609b8](https://github.com/user-attachments/assets/a37c1a2d-2d8e-4353-bcc5-d8db5bf52d92)" width="100%" alt="Profile Banner" />
+  <img src="https://github.com/user-attachments/assets/7f5bc317-af18-4965-b812-3d42f9acd986" width="100%" alt="Profile Banner" />
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 ---
 
-<h2 align="center">🧑‍💻 About Me</h2>
+<h2 align="center">🧑‍💻 About Me</h2> 
 <p align="center">
 I am a passionate <b>Frontend Developer</b> dedicated to building seamless 
 and user-centric web experiences. <br /> 
@@ -33,8 +33,7 @@ I love turning complex designs into functional, high-performance code.
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
-</p>![me](https://github.com/user-attachments/assets/51fd46e5-fb95-4e4c-aa67-47693f55a947)
-
+</p>
 
 <br />
 <br />
