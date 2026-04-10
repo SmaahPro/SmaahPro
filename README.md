@@ -86,6 +86,6 @@ const developer = {
   name: "Sheikh Muntaqim Ahmed Al Hasib",
   role: "Frontend Developer",
   status: "Coffee Powered ☕",
-  goal: "Building the next-gen web"
+  goal: "Building the next-gen web",
   languages: ["Bangla", "English", "Spanish"]
 };
