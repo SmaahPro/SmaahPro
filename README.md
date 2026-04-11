@@ -69,11 +69,6 @@ I love turning complex designs into functional, high-performance code.
 
 <br />
 
-<br /> 
-<h3 align="center">📊 GitHub Stats</h3> 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SmaahPro&theme=tokyonight" /> 
-</p>
-
 <br />
 
 <table width="100%">
