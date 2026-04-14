@@ -47,11 +47,11 @@ I love turning complex designs into functional, high-performance code.
 
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
-  <a href="sheikhmuntaqimahmedalhasibcode@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="mailto:sheikhmuntaqimahmedalhasibcode@gmail.com">
+   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
   <a href="https://linkedin.com/in/SmaahPro" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://facebook.com/SmaahPro" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
