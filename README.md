@@ -59,9 +59,7 @@ I love turning complex designs into functional, high-performance code.
   <a href="https://x.com/SmaahPro" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  
-   <div style="height: 5 px;"></div>
-   
+   <br/>
   <a href="https://www.hackerrank.com/profile/SmaahPro" target="_blank">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
