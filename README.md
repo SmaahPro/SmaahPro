@@ -10,7 +10,7 @@
 
 <h2 align="center">🧑‍💻 About Me</h2> 
 <p align="center">
-I am a passionate <b>Frontend Developer</b> dedicated to building seamless 
+I am a passionate <b>Web Developer</b> dedicated to building seamless 
 and user-centric web experiences. <br /> 
 I love turning complex designs into functional, high-performance code.
 </p>
