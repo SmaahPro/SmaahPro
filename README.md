@@ -16,7 +16,7 @@ I love turning complex designs into functional, high-performance code.
 </p>
 <br>
 <p align="center">
-  🌱 I’m exploring <b>Next.js.</b> <br />
+  🌱 I’m exploring <b>Express.js.</b> <br />
   🚀 Building <b>modern web applications.</b> <br />
   💡 Learning <b>advanced JavaScript concepts.</b>
 </p>
